@@ -1105,14 +1105,16 @@
                 "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.m3u",
                 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                 "isActive": true,
-                "id": 1
+                "id": 1,
+                "type": "remote"
             },
             {
                 "name": "电视直播X",
                 "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.m3u",
                 "epg": "",
                 "isActive": false,
-                "id": 2
+                "id": 2,
+                "type": "remote"
             }
         ]
     },
